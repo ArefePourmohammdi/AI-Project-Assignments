@@ -22,6 +22,22 @@ The water jug problem involves two unmarked jugs with capacities of `x` liters a
 - **BFS** (Breadth-First Search)
 - **IDDFS** (Iterative Deepening Depth-First Search)
 
+  ### 2. N-Queens Problem & Search Algorithms (Assignment 2)
+This assignment involves solving the 9-Queens problem on a 9x9 chessboard using various search algorithms:
+
+- **Hill Climbing Algorithm**:  
+  Solve the 9-Queens problem using hill climbing. The solution is repeated 20 times, and the percentage of successful solutions is reported, along with the average number of steps required to find a solution. The result is also displayed as an image.
+  
+- **Hill Climbing with Side Moves**:  
+  The hill climbing algorithm is modified to allow some lateral moves, and again repeated 20 times. The percentage of successful solutions and the average number of steps required are recorded.
+
+- **Simulated Annealing**:  
+  The problem is also solved using the simulated annealing algorithm. The percentage of successful solutions and average steps for finding a solution are reported for comparison with hill climbing.
+
+- **OR-AND Search for Wandering Vacuum World**:  
+  Implementation of the OR-AND search algorithm for the wandering vacuum world problem.
+
+
 ## How to Run
 
 1. Clone the repository:
