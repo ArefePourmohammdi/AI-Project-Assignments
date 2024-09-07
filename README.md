@@ -34,6 +34,9 @@ This assignment further explores the 9-Queens problem using additional methods:
 - **Optional Task (Extra Credit)**:  
   Solve the N-Queens problem (for any N) using at least two different heuristics and compare the results with those obtained in the local search. Report on the impact of the heuristics and the maximum number of queens that can be solved in a reasonable time frame.
 
+### 4. Prolog Project with Hill Climbing
+A project implemented using **Prolog** and the **Hill Climbing Algorithm** to solve a given AI problem. The solution explores the effectiveness of Prolog in conjunction with the hill climbing algorithm for AI-based problem-solving.
+
 ## How to Run
 
 1. Clone the repository:
