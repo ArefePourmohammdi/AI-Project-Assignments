@@ -37,8 +37,4 @@ This assignment further explores the 9-Queens problem using additional methods:
 ### 4. Prolog Project with Hill Climbing
 A project implemented using **Prolog** and the **Hill Climbing Algorithm** to solve a given AI problem. The solution explores the effectiveness of Prolog in conjunction with the hill climbing algorithm for AI-based problem-solving.
 
-## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/AI-Project-Assignments.git
